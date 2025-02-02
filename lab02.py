@@ -64,7 +64,6 @@ def main():
 
     print(f"""
     3.2 - 
-    
     Age Sum: {age_sum:.1f}
     Height Difference: {height_diff:.1f}
     Age-Height Product: {age_prod:.1f}
